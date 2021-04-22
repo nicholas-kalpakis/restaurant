@@ -5,6 +5,7 @@ function App() {
   return (
     <Fragment>
 		<Header></Header>
+		<h1>In Progress!</h1>
 	</Fragment>
   );
 }
