@@ -1,12 +1,13 @@
-import './App.css';
-import Header from './components/Layout/Header'
-import { Fragment } from 'react';
+import './App.css'
+import Header from './components/Layout/Header';
+import Meals from './components/Meals/Meals';
+
 function App() {
   return (
-    <Fragment>
-		<Header></Header>
-		<h1>In Progress!</h1>
-	</Fragment>
+    <div>
+		<Header/>
+		<Meals/>
+	</div>
   );
 }
 
