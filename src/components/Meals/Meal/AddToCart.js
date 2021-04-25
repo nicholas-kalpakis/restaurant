@@ -1,4 +1,3 @@
-import CartContext from '../../../store/cart-context';
 import './AddToCart.css'
 
 const AddToCart = (props) => {
