@@ -15,7 +15,8 @@
 @media (max-width:500px) {
 	.add-to-cart-button {
 		height: 34px;
-		width: 52px;
+		width: 58px;
+		font-size: 12px;
 	}
 	.price {
 		font-size: 16px;
